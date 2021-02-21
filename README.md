@@ -9,10 +9,10 @@
 License plate finder based on canny filter and polygon contour detection.
 
 <br>
-<img src="images/frontcar.png" alt="car" width="600" height="400">
+<img src="images/frontcar.png" alt="car" width="500" height="200">
 
 <br>
-<img src="images/contourLP.png" alt="car" width="600" height="400">
+<img src="images/contourLP.png" alt="car" width="500" height="200">
 
 <br>
-<img src="images/cropLP.png" alt="car" width="600" height="400">
+<img src="images/cropLP.png" alt="car" width="150" height="50">
